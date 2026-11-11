@@ -20,7 +20,7 @@ My interests span both technical and creative domains, allowing me to combine pr
 
 ### Web Technologies
 
-* HTML
+* HTML & CSS
 
 ### Design & Creative Tools
 
@@ -31,6 +31,8 @@ My interests span both technical and creative domains, allowing me to combine pr
 ### Productivity Tools
 
 * Microsoft Office Suite
+* Visual Studio Code
+* Git
 
 ## Interests
 
