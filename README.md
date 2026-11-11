@@ -1,4 +1,4 @@
-# Hi there, I'm Mihir Mohanta 👋
+# Hi there, I'm Mihir Mohanta
 
 ## About Me
 
